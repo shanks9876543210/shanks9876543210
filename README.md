@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanks9876543210&label=Profile%20views&color=0e75b6&style=flat" alt="shanks9876543210" /> </p>
 
 
-
 - ⚡ Fun fact **I can recommend something good to watch and you willn't regret watching it.HAHAHA**
 
 <h3 align="left">Connect with me:</h3>
