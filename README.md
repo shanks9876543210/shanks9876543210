@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I can recommend something good to watch and you willn't regret watching it.HAHAHA**
 
 <h3 align="left">Connect with me:</h3>
+raibinay421@gmail.com
 <p align="left">
 </p>
 
