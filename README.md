@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Binay Rai</h1>
 <h3 align="center">I am a web developer. I used Django as backend and React.js as frontend. I am seeking an opportunity to grow and learn.</h3>
-<img alt="animated coding image" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"
+<img align="right" width="400" alt="animated coding image" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanks9876543210&label=Profile%20views&color=0e75b6&style=flat" alt="shanks9876543210" /> </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
