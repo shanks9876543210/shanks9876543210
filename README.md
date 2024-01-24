@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I can recommend you something good to watch.**
 
-<h3 align="left">Connect with me: raibinay421@gmail.com </h3>
+<h3 align="left">Connect with me: </h3>  raibinay421@gmail.com
 <p align="left">
 </p>
 
