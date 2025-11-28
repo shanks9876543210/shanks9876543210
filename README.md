@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="animated coding image" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanks9876543210&label=Profile%20views&color=0e75b6&style=flat" alt="shanks9876543210" /> </p>
 
-- 🔭 I’m currently working on ** Nepal's First Quick Commerce App- Fasto: in 10 Min** as Backend Developer
+- 🔭 I’m currently working on ** Nepal's First Quick Commerce App- Fasto ** as Backend Developer
 
 - ⚡ Fun fact **I can recommend you something good to watch.**
 
